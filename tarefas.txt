@@ -1,0 +1,26 @@
+-- Layout:
+
+(X) Placar:
+    - (X) Player da vez;
+    - (X) Pontos;
+
+( ) Tabuleiro;
+
+( ) Menu de opções:
+    - ( ) Modo claro e escuro;
+    - ( ) Trocar o tema de cores;
+    - ( ) Reiniciar jogo;
+    - ( ) Histórico;
+
+( ) Créditos;
+
+-- Lógica:
+
+( ) 
+
+---------------------
+Bugs
+
+- A altura do elemento .space 
+não é igual a largura. Resolver 
+com javascript.
