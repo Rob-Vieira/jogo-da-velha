@@ -1,26 +1,37 @@
 -- Layout:
 
+( ) Título;
+
 (X) Placar:
     - (X) Player da vez;
     - (X) Pontos;
 
-( ) Tabuleiro;
+(X) Tabuleiro;
 
 ( ) Menu de opções:
     - ( ) Modo claro e escuro;
     - ( ) Trocar o tema de cores;
     - ( ) Reiniciar jogo;
     - ( ) Histórico;
+    - ( ) Controles do som;
 
 ( ) Créditos;
 
 -- Lógica:
 
-( ) 
+( ) Adicionar sons ao jogo.
+
+( ) Possibilidade de trocar o nome dos jogadores.
 
 ---------------------
-Bugs
+Bugs:
 
 - A altura do elemento .space 
 não é igual a largura. Resolver 
 com javascript.
+
+Possíveis Bugs:
+
+- Nomes muito grandes podem 
+quebrar o layout, adicionar um
+limitador de caracteres.
