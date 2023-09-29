@@ -19,9 +19,17 @@
 
 -- Lógica:
 
+( ) Partida ficar salva ao sair.
+
 ( ) Adicionar sons ao jogo.
 
 ( ) Possibilidade de trocar o nome dos jogadores.
+
+( ) Sistema de tradução.
+
+-- Geral:
+
+( ) Transição de cena.
 
 ---------------------
 Bugs:
